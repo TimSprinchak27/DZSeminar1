@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\TASK8.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\TASK8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\TASK8.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\TASK8.AssemblyInfo.cs
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\TASK8.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\bin\Debug\net6.0\TASK8.exe
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\bin\Debug\net6.0\TASK8.deps.json
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\bin\Debug\net6.0\TASK8.runtimeconfig.json
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\bin\Debug\net6.0\TASK8.dll
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\bin\Debug\net6.0\TASK8.pdb
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\TASK8.dll
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\refint\TASK8.dll
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\TASK8.pdb
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\TASK8.genruntimeconfig.cache
+C:\Users\PC\Desktop\DZSEMINAR1\TASK8\obj\Debug\net6.0\ref\TASK8.dll
